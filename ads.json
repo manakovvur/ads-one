@@ -5,23 +5,23 @@
     },
     {
       "imgURL": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1726481790/kovvur-icons/ADS/MEDICAL.jpg",
-      "imgAlt": "Image 1"
+      "imgAlt": "Image 2"
     },
      {
       "imgURL": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1728137320/kovvur-icons/ADS/MED2_ix61bn.jpg",
-      "imgAlt": "Image 1"
-    },
-    {
-      "imgURL": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1722667358/kovvur-icons/ADS/airtel-ads-min_xldadn.jpg",
-      "imgAlt": "Image 2"
-    },
-    {
-      "imgURL": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1722667455/kovvur-icons/ADS/classic_grreh6-min_yp1bft.jpg",
       "imgAlt": "Image 3"
     },
     {
-      "imgURL": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1723270320/kovvur-icons/ADS/business.jpg",
+      "imgURL": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1722667358/kovvur-icons/ADS/airtel-ads-min_xldadn.jpg",
       "imgAlt": "Image 4"
+    },
+    {
+      "imgURL": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1722667455/kovvur-icons/ADS/classic_grreh6-min_yp1bft.jpg",
+      "imgAlt": "Image 5"
+    },
+    {
+      "imgURL": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1723270320/kovvur-icons/ADS/business.jpg",
+      "imgAlt": "Image 6"
     }
   ]
 
